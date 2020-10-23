@@ -14,7 +14,7 @@ A simple web application that displays pokemon data using the pokemon API.
 
 
 ## Screenshots
-![wireframe] (./imgs/wireframe.png)
+![wireframe](./imgs/wireframe.png)
 
 ## Getting Started
 [Click here] (#) to see the deployed app!
